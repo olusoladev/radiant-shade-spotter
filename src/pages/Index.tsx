@@ -1,5 +1,5 @@
 import React, { useState, useRef, useCallback } from "react";
-import { getDominantColor, type DominantColorResult } from "@/lib/image-dominant-color";
+import { getDominantColor, type DominantColorResult } from "@devsola/image-color";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card } from "@/components/ui/card";
